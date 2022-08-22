@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+body{
+    text-align: left;
+    background-color: hsl(30, 38%, 92%);
+    margin-left: 27rem;
+    margin-top: 100px;
+    font-size: 20px;
+
+    
+}
+.imageP{
+    width: 350px;
+    float: left;
+    position: relative;
+    height: 500px;
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    
+}
+.box{
+    background-color: white;
+    width: 700px;
+    height: 500px;
+    font-family: 'Fraunces', serif;
+    border-radius: 10px;
+    
+
+}
+.saint{
+    margin-left: 10px;
+    padding-left: 380px;
+    width: 184px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+
+}
+.middle{
+    padding: 30px 0px 30px 390px;
+    /* padding-left: 370px;
+    padding-top: 30px;
+    padding-bottom: 30px; */
+    width: 260px;
+}
+.left-Alignment{
+    margin-right: 33px;
+}
+.right-Alignment{
+    height: 500px;
+    width: 570px;
+}
+
+h1{
+    height: 130px;
+    padding-left: 390px;
+    width: 250px;
+}
+.bottom{
+    padding: 0px 0px 20px 390px;
+    color: rgb(8, 92, 46);
+    font: bolder;
+    
+}
+.cart{
+    margin-left: 40px;
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(26, 107, 62);
+    color: white;
+}
+span{
+    padding: 0px 0px 20px 40px;
+    font-size: 15px;
+    text-decoration-line: line-through;
+    color: rgb(134, 142, 142);
+}
+.fa-solid fa-cart-shopping{
+    font-size: 1px;
+}
